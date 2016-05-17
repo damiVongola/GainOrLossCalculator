@@ -1,12 +1,19 @@
 # GainOrLossCalculator
-This program uses a doubly linked list to create a capital gain and loss calculator
+This program uses a doubly linked list to create a capital gain and loss calculator.
+--------------------
+Complete Description
+--------------------
+This program uses a doubly linked queue adaptation that follows the FIFO principle to calculate the total capital gain
+of a sequence of transactions that are in the form buy x share(s) at $y each” or “sell x share(s) at $y each,” 
+assuming that the transactions occur on consecutive days and the values x and y are integers. 
+input must be in the form buy x share(s) at $y each” or “sell x share(s) at $y each.
 ---------
 Classes
 ---------
-CapitalGainOrLoss
-CapitalGainOrLossCalculator
-DoublyLinkedList
-DoublyLinkedQueue
+CapitalGainOrLoss,
+CapitalGainOrLossCalculator,
+DoublyLinkedList,
+DoublyLinkedQueue,
 Queue
 
 -----------------------
